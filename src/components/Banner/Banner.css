@@ -1,0 +1,11 @@
+p {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    margin-top: 0;
+}
+
+article {
+    background-color: black;
+}
