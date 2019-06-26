@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7b8fde2.chunk.css",
-    "main.js": "/static/js/main.dc30753f.chunk.js",
-    "main.js.map": "/static/js/main.dc30753f.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.884c28c3.chunk.js": "/static/js/2.884c28c3.chunk.js",
-    "static/js/2.884c28c3.chunk.js.map": "/static/js/2.884c28c3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.aabee3acd4963d74a63192e1a1a2a68f.js": "/precache-manifest.aabee3acd4963d74a63192e1a1a2a68f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b7b8fde2.chunk.css.map": "/static/css/main.b7b8fde2.chunk.css.map"
+    "main.css": "/clikcyGame/static/css/main.b7b8fde2.chunk.css",
+    "main.js": "/clikcyGame/static/js/main.a1a6dc97.chunk.js",
+    "main.js.map": "/clikcyGame/static/js/main.a1a6dc97.chunk.js.map",
+    "runtime~main.js": "/clikcyGame/static/js/runtime~main.b49f07ae.js",
+    "runtime~main.js.map": "/clikcyGame/static/js/runtime~main.b49f07ae.js.map",
+    "static/js/2.884c28c3.chunk.js": "/clikcyGame/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/clikcyGame/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/clikcyGame/index.html",
+    "precache-manifest.b9a856aefdc318261a99b3c2ba4c8496.js": "/clikcyGame/precache-manifest.b9a856aefdc318261a99b3c2ba4c8496.js",
+    "service-worker.js": "/clikcyGame/service-worker.js",
+    "static/css/main.b7b8fde2.chunk.css.map": "/clikcyGame/static/css/main.b7b8fde2.chunk.css.map"
   }
 }
